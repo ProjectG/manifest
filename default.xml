@@ -9,6 +9,7 @@
 		   
   <default revision="refs/tags/android-5.1.1_r9"
            remote="aosp"
+		   sync-c="true"
            sync-j="4" />
 
   <project name="F-AOSP/platform_build" path="build" groups="pdk,tradefed" remote="github" revision="aosp-5.1" >
