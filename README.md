@@ -10,3 +10,9 @@ Then to sync up:
 ````bash
 repo sync
 ```
+Finally to build:
+````bash
+. build/envsetup.sh
+lunch aosp_geehrc-userdebug
+make -j8 otapackage
+```
