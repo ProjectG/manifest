@@ -527,7 +527,7 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
   <project name="F-AOSP/platform_vendor_aosp" path="vendor/aosp" remote="github" revision="aosp-5.1" />
   <project name="lollipop-og/kernel_msm" path="kernel/lge/geehrc" remote="github" revision="cm-12.1" />
-  <project name="lollipop-og/android_vendor_lge_gee" path="vendor/lge/gee" remote="github" revision="master" />
+  <project name="lollipop-og/android_vendor_lge_e975" path="vendor/lge/e975" remote="github" revision="master" />
   <project name="ProjectG/platform_device_lge_geehrc" path="device/lge/geehrc" remote="github" revision="master" />
 
 </manifest>
