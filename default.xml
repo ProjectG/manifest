@@ -13,7 +13,7 @@
            review="gerrit.omnirom.org"
            fetch="https://github.com/omnirom" />
 		   
-  <default revision="refs/tags/android-5.1.1_r9"
+  <default revision="refs/tags/android-5.1.1_r16"
            remote="aosp"
 		   sync-c="true"
            sync-j="4" />
@@ -297,7 +297,7 @@
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs" />
   <project name="F-AOSP/platform_frameworks_av" path="frameworks/av" groups="pdk" remote="github" revision="aosp-5.1" />
-  <project name="F-AOSP/platform_frameworks_base" path="frameworks/base" groups="pdk-cw-fs" remote="github" revision="aosp-5.1" />
+  <project name="ProjectG/platform_frameworks_base" path="frameworks/base" groups="pdk-cw-fs" remote="github" revision="aosp-5.1" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" />
